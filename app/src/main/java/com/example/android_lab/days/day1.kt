@@ -1,4 +1,4 @@
-package com.example.android_lab.day1
+package com.example.android_lab.days
 
 
 fun  main(){
