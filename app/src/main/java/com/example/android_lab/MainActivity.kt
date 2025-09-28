@@ -101,7 +101,7 @@ fun LoginSignupScreen(
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
             Text(
-                text = if (isLogin) "Welcome Back 👋" else "Create Account ✨",
+                text = if (isLogin) "Welcome Back 👋" else "Create Account! ✨",
                 style = TextStyle(
                     color = Color.White,
                     fontSize = 30.sp,
